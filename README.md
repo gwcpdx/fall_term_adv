@@ -1,4 +1,4 @@
-# fall_term_adv
+# Advanced Frontend
 Advanced frontend term for girls who have completed both fall backend, and spring frontend classes.
 
 ## Week 1 — HTML + CSS review
