@@ -10,6 +10,9 @@ https://codepen.io/rachelworthman/pen/MWgGrbq
 2. Play this game http://cssgridgarden.com/
 3. Fork this pen and build your own CSS grid following the instructions in the code editor: https://codepen.io/rachelworthman/pen/WNeayEZ
 
+## Week 3 - CSS Nesting
+1. Play this game to test your CSS nesting skills! https://flukeout.github.io/
+2. Now use your knowledge of nested selectors and style up this page! https://codepen.io/rachelworthman/pen/MWgxbyK
 _____________
 
 ## Resources
