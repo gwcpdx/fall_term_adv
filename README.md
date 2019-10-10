@@ -21,9 +21,9 @@ Flexbox is another way we control and design layouts using CSS (like CSS grid, b
 
 ## Week 5 - Layout & Image Project
 Inspiration
-https://www.instagram.com/girlswhocode/
-https://analogisheavy.com/
-https://framesforfuture.tv/
+https://www.instagram.com/girlswhocode/ <br>
+https://analogisheavy.com/ <br>
+https://framesforfuture.tv/ <br>
 https://undersight.co/
 _____________
 
