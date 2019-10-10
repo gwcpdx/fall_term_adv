@@ -18,6 +18,13 @@ https://codepen.io/rachelworthman/pen/MWgGrbq
 Flexbox is another way we control and design layouts using CSS (like CSS grid, but more FLEXible!)
 1. Play this flexbox game http://flexboxfroggy.com/ (if you get stuck, there are some flexbox cheatsheets in the resources below)
 2. Fork this codepen and create your own spooky pumpkin using flexbox https://codepen.io/rachelworthman/pen/rNBXWpg
+
+## Week 5 - Layout & Image Project
+Inspiration
+https://www.instagram.com/girlswhocode/
+https://analogisheavy.com/
+https://framesforfuture.tv/
+https://undersight.co/
 _____________
 
 ## Resources
