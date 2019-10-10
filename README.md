@@ -20,7 +20,7 @@ Flexbox is another way we control and design layouts using CSS (like CSS grid, b
 2. Fork this codepen and create your own spooky pumpkin using flexbox https://codepen.io/rachelworthman/pen/rNBXWpg
 
 ## Week 5 - Layout & Image Project
-Inspiration
+Inspiration <br>
 https://www.instagram.com/girlswhocode/ <br>
 https://analogisheavy.com/ <br>
 https://framesforfuture.tv/ <br>
