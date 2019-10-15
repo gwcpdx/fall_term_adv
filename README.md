@@ -53,7 +53,8 @@ https://cssgradient.io/
 
 ##### Effects
 image hover: https://codepen.io/nxworld/pen/ZYNOBZ <br>
-hover (movement): http://ianlunn.github.io/Hover/
+hover (movement): http://ianlunn.github.io/Hover/ <br>
+animations: https://daneden.github.io/animate.css/
 
 ##### More Tutorials
 https://www.superhi.com/video
